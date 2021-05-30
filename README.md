@@ -20,11 +20,11 @@ ChatterBot is a Python library that is designed to deliver automated responses t
 
 ## Features
 
-- Chatterbot is make use of different ML algorithms to generate different response
-- This uses NLP to train model and provide response for queries provided to it
-- ML algorithms help the bot to improve its performance with experience
-- The program select the most-fitting and reliable response from the closest statement that matches the input
+- Chatterbot is making use of different ML algorithms to generate different response.
+- This uses NLP to train model and provide response for queries provided to it.
+- ML algorithms help the bot to improve its performance with experience.
+- The program selects the most fitting and reliable response from the closest statement that matches the input.
 - Over time, as the chatbot engages in more interactions, the accuracy of response improves.
-- The great thing is that ChatterBot offers this functionality in many different languages apart from english.
+- The great thing is that ChatterBot offers this functionality in many different languages apart from English.
 - We have trained current model in 'English' language.
-- We can also menton a subset of a corpus in a language we want our bot to work.
+- We can also mention a subset of a corpus in a language we want our bot to work.
