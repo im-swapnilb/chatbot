@@ -12,11 +12,11 @@ ChatterBot is a Python library that is designed to deliver automated responses t
 * chatterbot==1.0.4
 
 ### Installation
-$ pip install nltk
-$ pip install chatterbot
-$ pip install chatterbot_corpus
-$ pip install --upgrade chatterbot
-$ pip install --upgrade chatterbot_corpus
+* pip install nltk
+* pip install chatterbot
+* pip install chatterbot_corpus
+* pip install --upgrade chatterbot
+* pip install --upgrade chatterbot_corpus
 
 ## Features
 
